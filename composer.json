@@ -75,7 +75,8 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "App\\": "app/",
+            "Acme\\": "src/"
         }
     },
     "autoload-dev": {
